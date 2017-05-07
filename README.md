@@ -14,7 +14,7 @@ I have updated this documentation to keep up with the changes Google has made to
 * View the form by clicking the "eye" icon in the upper right at the top of the page.
 
 *  On the live form page where you can submit responses, view the source of the page, and capture the URL in the `action` attribute of the `form` tag: ex:
-`https://docs.google.com/forms/d/18LD6ueL10_lLVAKpDgfmLpUBlzoRFEZSoMod57MXfH0/formResponse?hl=en_US` getting rid of everything after `formResponse?`.
+https://docs.google.com/a/twnsnd.co/forms/d/e/1FAIpQLScyAzt51Hd6hVghV9cuU7hsQ9mF-bytQXOj8vE177hUVE-X1w/formResponse` getting rid of everything after `formResponse?`.
 
 * Now search the source of the page for this: 
 
